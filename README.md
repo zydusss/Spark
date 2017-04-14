@@ -17,4 +17,7 @@ Spark comes in multiple flavours :
 - Dataset : holds data which may come from hetrogenous sources (like file,database etc.) or created programmatically. 
 
 RDD are fundamental unit of data in Spark. Most of the processing in Spark is done on RDDs.
+RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic recreation. 
 
+##### Code Snippets
+* Creating RDDs <>
