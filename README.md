@@ -20,4 +20,7 @@ RDD are fundamental unit of data in Spark. Most of the processing in Spark is do
 RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic recreation. 
 
 ##### Code Snippets
-* Creating RDDs <https://github.com/zydusss/Spark/blob/master/Creating%20Spark%20RDD.ipynb>
+* Setting up Spark on Ubuntu - Jupyter Notebook (https://github.com/zydusss/Spark/blob/master/Launching%20Spark%20On%20Ubuntu.ipynb)
+* [Creating Spark RDD's] (https://github.com/zydusss/Spark/blob/master/Creating%20Spark%20RDD.ipynb)
+* [Creating Spark Dataframes] (https://github.com/zydusss/Spark/blob/master/Creating%20Spark%20Dataframe.ipynb)
+* [Spark Transformations & Actions] (https://github.com/zydusss/Spark/blob/master/Spark%20Transformations%20%26%20Actions.ipynb) 
