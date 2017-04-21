@@ -11,13 +11,13 @@ Spark comes in multiple flavours :
 - Main entry point to the Spark API.
 - Spark shell provides a preconfigured Spark context called 'sc'
 
-#### RDD (Resilient Distributed Dataset)
+#### Spark RDD (Resilient Distributed Dataset)
+RDD are fundamental unit of data in Spark. Most of the processing in Spark is done on RDDs.
+RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic recreation. 
+
 - Resilient : If data in memory is lost, it can be recreated.
 - Distributed : Processed accross the cluster
 - Dataset : holds data which may come from hetrogenous sources (like file,database etc.) or created programmatically. 
-
-RDD are fundamental unit of data in Spark. Most of the processing in Spark is done on RDDs.
-RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic recreation. 
 
 ##### For further details along with code snippets(pyspark) follow the topics listed below :
 
