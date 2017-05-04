@@ -27,6 +27,36 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
 * [Spark Transformations & Actions](https://github.com/zydusss/Spark/blob/master/Spark%20Transformations%20%26%20Actions.ipynb) 
  
  
+ #### Spark MLlib
+ 
+ What is Spark MLlib ?
+ 
+ Why you should be using Spark MLlib ?
+ 
+ How ?
+ 
+ 
+ #### Spark Streaming
+ 
+ What is Spark Streaming ?
+ 
+ Why you should be using Spark Streaming ?
+ 
+ How ?
+ 
+ 
+ #### Spark GraphX
+ 
+ What is Spark GraphX ?
+ 
+ Why you should be using Spark GraphX ?
+ 
+ How ?
+ 
+ 
+ 
+ 
+ 
  
  
  
