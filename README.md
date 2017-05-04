@@ -29,6 +29,7 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
  
  #### Spark MLlib
  
+ 
  What is Spark MLlib ?
  
  Why you should be using Spark MLlib ?
