@@ -19,14 +19,14 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
 - Distributed : Processed accross the cluster
 - Dataset : holds data which may come from hetrogenous sources (like file,database etc.) or created programmatically. 
 
- #### Spark MLlib
+#### Spark MLlib
  * What is Spark MLlib ?
  
  * Why you should be using Spark MLlib ?
  
  * How ?
  
- #### Spark Streaming
+#### Spark Streaming
  * What is Spark Streaming ?
  
    * An extension of core Spark.
@@ -56,14 +56,14 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
    
    * Return results of RDD operations in batches
    
- #### Spark GraphX
+#### Spark GraphX
  * What is Spark GraphX ?
  
  * Why you should be using Spark GraphX ?
  
  * How ?
 
- ##### For further details along with code snippets(pyspark) follow the topics listed below :
+##### For further details along with code snippets(pyspark) follow the topics listed below :
 
 * [Setting up Spark on Ubuntu - Jupyter Notebook](https://github.com/zydusss/Spark/blob/master/Launching%20Spark%20On%20Ubuntu.ipynb)
 * [Creating Spark RDD's](https://github.com/zydusss/Spark/blob/master/Creating%20Spark%20RDD.ipynb)
