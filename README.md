@@ -30,29 +30,35 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
  #### Spark MLlib
  
  
- What is Spark MLlib ?
+ * What is Spark MLlib ?
  
- Why you should be using Spark MLlib ?
+ * Why you should be using Spark MLlib ?
  
- How ?
+ * How ?
  
  
  #### Spark Streaming
  
- What is Spark Streaming ?
+ * What is Spark Streaming ?
  
- Why you should be using Spark Streaming ?
+   * An extension of core Spark.
+   
+   * Provides capability for real time processing of streaming data.
+   
+   * Use cases : Continous ETL , Website Monitoring , Fraud detection , Ad monetization , Social media analysis , Financial market trends
  
- How ?
+ * Why you should be using Spark Streaming ?
+ 
+ * How ?
  
  
  #### Spark GraphX
  
- What is Spark GraphX ?
+ * What is Spark GraphX ?
  
- Why you should be using Spark GraphX ?
+ * Why you should be using Spark GraphX ?
  
- How ?
+ * How ?
  
  
  
