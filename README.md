@@ -20,7 +20,6 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
 - Dataset : holds data which may come from hetrogenous sources (like file,database etc.) or created programmatically. 
 
  #### Spark MLlib
- 
  * What is Spark MLlib ?
  
  * Why you should be using Spark MLlib ?
@@ -28,7 +27,6 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
  * How ?
  
  #### Spark Streaming
- 
  * What is Spark Streaming ?
  
    * An extension of core Spark.
@@ -49,7 +47,7 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
    
    * Scalability and efficient fault tolerance 
  
- * How ? 
+  * How ? 
  
    * Divide data stream into batches of n seconds
      * Called a Dstream (Discretized Stream)
@@ -59,21 +57,16 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
    * Return results of RDD operations in batches
    
  #### Spark GraphX
- 
  * What is Spark GraphX ?
  
  * Why you should be using Spark GraphX ?
  
  * How ?
 
-##### For further details along with code snippets(pyspark) follow the topics listed below :
+ ##### For further details along with code snippets(pyspark) follow the topics listed below :
 
 * [Setting up Spark on Ubuntu - Jupyter Notebook](https://github.com/zydusss/Spark/blob/master/Launching%20Spark%20On%20Ubuntu.ipynb)
 * [Creating Spark RDD's](https://github.com/zydusss/Spark/blob/master/Creating%20Spark%20RDD.ipynb)
 * [Creating Spark Dataframes](https://github.com/zydusss/Spark/blob/master/Creating%20Spark%20Dataframe.ipynb)
 * [Spark Transformations & Actions](https://github.com/zydusss/Spark/blob/master/Spark%20Transformations%20%26%20Actions.ipynb) 
   
- 
- 
- 
- 
