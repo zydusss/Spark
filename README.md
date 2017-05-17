@@ -59,8 +59,15 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
    
    * Scalability and efficient fault tolerance 
  
- * How ?
+ * How ? 
  
+   * Divide data stream into batches of n seconds
+     * Called a Dstream (Discretized Stream)
+     
+   * Process each batch in Spark as an RDD
+   
+   * Return results of RDD operations in batches
+   
  
  #### Spark GraphX
  
