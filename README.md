@@ -49,6 +49,16 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
  
  * Why you should be using Spark Streaming ?
  
+   * Integrates batch and real-time processing
+   
+   * Easy to develop : uses Spark's high level API
+   
+   * "Once and only once" processing
+   
+   * Second-scale latencies
+   
+   * Scalability and efficient fault tolerance 
+ 
  * How ?
  
  
