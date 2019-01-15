@@ -1,6 +1,6 @@
 ## What is Spark
 
-Spark is a fast , scalable, general purpose engine for large scale data processing.
+Spark is a fast , scalable, general purpose engine for large scale data processing. 
 * Written in Scala : Functional programming language that runs on top of JVM
 
 Spark comes in multiple flavours :
