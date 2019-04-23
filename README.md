@@ -1,4 +1,4 @@
-## What is Spark
+## What is Spark?
 
 Spark is a fast , scalable, general purpose engine for large scale data processing. 
 
@@ -64,7 +64,7 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
  
  * How ?
 
-##### For further details along with code snippets(pyspark) follow the topics listed below :
+##### For further details along with code snippets(pyspark) follow the topics listed below:
 
 * [Setting up Spark on Ubuntu - Jupyter Notebook](https://github.com/zydusss/Spark/blob/master/Launching%20Spark%20On%20Ubuntu.ipynb)
 * [Creating Spark RDD's](https://github.com/zydusss/Spark/blob/master/Creating%20Spark%20RDD.ipynb)
