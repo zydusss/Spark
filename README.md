@@ -6,7 +6,7 @@ Spark is a fast , scalable, general purpose engine for large scale data processi
 
 Spark comes in multiple flavours :    
 * Spark Shell(Python or Scala) : Interactive data processing / exploration
-* Spark Applications : For large scale data processing needs. 
+* Spark Applications: For large scale data processing needs. 
 
 #### Spark Context
 - Main entry point to the Spark API.
