@@ -1,4 +1,4 @@
-## What is Spark?
+## What is Spark ?
 
 Spark is a fast , scalable, general purpose engine for large scale data processing. 
 
