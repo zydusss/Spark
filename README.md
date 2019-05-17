@@ -4,12 +4,13 @@ Spark is a fast, scalable, general purpose engine for large scale data processin
 
 * Written in Scala: Functional programming language that runs on top of JVM.
 
-Spark comes in multiple flavours :    
+Spark comes in multiple flavours:    
 
 * Spark Shell(Python or Scala) : Interactive data processing / exploration
 * Spark Applications: For large scale data processing needs. 
 
 #### Spark Context
+
 - Main entry point to the Spark API.
 - Spark shell provides a preconfigured Spark context called 'sc'
 
@@ -33,7 +34,7 @@ RDD are immutable which allows : Consistency,Concurrency,Easy & deterministic re
  
    * An extension of core Spark.
    
-   * Provides capability for real time processing of streaming data.
+   * Provides capability for real-time processing of streaming data.
    
    * Use cases : Continous ETL , Website Monitoring , Fraud detection , Ad monetization , Social media analysis , Financial market trends
  
