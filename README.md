@@ -9,6 +9,9 @@ Spark comes in multiple flavours:
 * Spark Shell(Python or Scala) : Interactive data processing / exploration
 * Spark Applications: For large scale data processing needs. 
 
+Why Spark ?
+
+
 #### Spark Context
 
 - Main entry point to the Spark API.
