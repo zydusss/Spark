@@ -11,7 +11,6 @@ Spark comes in multiple flavours  :
 
 Why Spark ?
 
-
 #### Spark Context
 
 - Main entry point to the Spark API.
